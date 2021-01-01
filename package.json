@@ -1,0 +1,28 @@
+{
+  "name": "test_github_pages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-pug": "^4.0.1",
+    "run-sequence": "^2.2.1"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-Z0807/test_github_pages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/J-Z0807/test_github_pages/issues"
+  },
+  "homepage": "https://github.com/J-Z0807/test_github_pages#readme",
+  "description": ""
+}
